@@ -1,0 +1,97 @@
+\documentclass[a4paper, 14pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} % AMS
+\usepackage{wrapfig,lipsum, cleveref}
+\usepackage{icomma} 
+\usepackage{color}
+\usepackage{geometry} 
+\usepackage{longtable}
+\usepackage{booktabs}
+
+\linespread{1.5}
+
+\geometry{top=25mm}
+\geometry{bottom=35mm}
+\geometry{left=35mm}
+\geometry{right=20mm}
+
+
+%% Номера формул
+%\mathtoolsset{showonlyrefs=true} % Показывать номера только у тех формул, на которые есть \eqref{} в тексте.
+
+%% Шрифты
+\usepackage{euscript}	 % Шрифт Евклид
+\usepackage{mathrsfs} % Красивый матшрифт
+
+%% Свои команды
+\DeclareMathOperator{\sgn}{\mathop{sgn}}
+
+%% Перенос знаков в формулах (по Львовскому)
+\newcommand*{\hm}[1]{#1\nobreak\discretionary{}
+{\hbox{$\mathsurround=0pt #1$}}{}}
+
+
+\title{Вариация алгоритма кросс-валидации со взвешиванием наблюдений}
+\usepackage{cmap}					% поиск в PDF
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+\usepackage{graphicx}
+\graphicspath{{pictures/}}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\author{Гармидер Петр}
+\date{\today}
+\begin{document}
+
+
+\thispagestyle{empty}
+\begin{center}
+	\textbf{ПРАВИТЕЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ}\\
+	\vspace{2ex}
+	\textbf{Федеральное государственное автономное\\ образовательное учреждение высшего образования}
+	
+	\vspace{2ex}
+	
+	\textbf{Национальный исследовательский университет \\ <<Высшая школа экономики>>}
+	
+	\vspace{8ex}
+	\begin{flushright}
+		Факультет экономических наук\\
+		Образовательная программа <<Экономика>>
+	\end{flushright}
+\end{center}
+\vspace{9ex}
+
+\begin{center}
+	{\textbf{КУРСОВАЯ РАБОТА
+	}}
+	\vspace{1ex}
+	
+	На тему <<Вариация алгоритма кросс-валидации со взвешиванием наблюдений>>
+\end{center}
+\vspace{1ex}
+\begin{flushright}
+	\noindent
+	Студент группы БЭК161\\Гармидер Петр Александрович\\
+	\vspace{13ex}
+	Научный руководитель:\\
+	Борис Демешев
+	
+\end{flushright}	
+
+\vfill
+
+\begin{center}
+	Москва 2021
+	
+\end{center}
+\newpage
+
+\tableofcontents
+
+\newpage
+
+
+
+
+\end{document}
