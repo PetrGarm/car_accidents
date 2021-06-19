@@ -3,44 +3,47 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Course_work_Garmider.aux
 The style file: utf8gost705u.bst
 Database file #1: biblio.bib
-You've used 1 entry,
+Warning--entry type for "rbkNews" isn't style-file defined
+--line 61 of file biblio.bib
+You've used 7 entries,
             2958 wiz_defined-function locations,
-            674 strings with 5587 characters,
-and the built_in function-call counts, 466 in all, are:
-= -- 64
-> -- 5
-< -- 2
-+ -- 2
-- -- 1
-* -- 24
-:= -- 54
-add.period$ -- 5
-call.type$ -- 1
+            711 strings with 7939 characters,
+and the built_in function-call counts, 1990 in all, are:
+= -- 284
+> -- 62
+< -- 8
++ -- 21
+- -- 14
+* -- 80
+:= -- 223
+add.period$ -- 26
+call.type$ -- 7
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 20
-empty$ -- 38
-format.name$ -- 1
-if$ -- 116
+cite$ -- 7
+duplicate$ -- 90
+empty$ -- 184
+format.name$ -- 14
+if$ -- 535
 int.to.chr$ -- 0
-int.to.str$ -- 1
+int.to.str$ -- 7
 missing$ -- 0
-newline$ -- 17
-num.names$ -- 3
-pop$ -- 8
+newline$ -- 50
+num.names$ -- 19
+pop$ -- 67
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 16
+skip$ -- 57
 stack$ -- 0
-substring$ -- 32
-swap$ -- 18
-text.length$ -- 1
+substring$ -- 38
+swap$ -- 58
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 4
-width$ -- 2
-write$ -- 29
+while$ -- 11
+width$ -- 8
+write$ -- 117
+(There was 1 warning)

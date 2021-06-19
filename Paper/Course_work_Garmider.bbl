@@ -17,4 +17,60 @@
 \newblock Т.~1, {№}~8.
 \newblock {С.}~538--541.
 
+\bibitem{ivliev_econ_stat_analysis}
+\selectlanguageifdefined{russian}
+Ивлиев~Михаил~Игоревич,
+  Черемисина~Наталия~Валентиновна.
+  Экономико-статистичекий анализ дорожной
+  ситуации в российской Федерации~//
+  Социально-экономические явления и
+  процессы.
+\newblock 2014.
+\newblock Т.~9, {№}~7.
+
+\bibitem{klachkiva2020analiz}
+\selectlanguageifdefined{russian}
+Клачкова~АВ, Семёнова~ЕД. АНАЛИЗ СТАТИСТИКИ
+  ДТП В РОССИЙСКОЙ ФЕДЕРАЦИИ~//
+  Инновационная наука.
+\newblock 2020.
+\newblock {№}~12.
+
+\bibitem{rbkNews}
+\selectlanguageifdefined{russian}
+Михаил~Котляр~Иван~Ткачёв. Локдаун 2020 года
+  почти не повлиял на смертность в
+  автоавариях. URL:
+  https://www.rbc.ru/society/13/06/2021/60c4106a9a7947862635eed4.
+
+\bibitem{kuzmenko2020analysis}
+\selectlanguageifdefined{russian}
+Кузьменко~ЕА, Донченко~ДС, Рагозин~ВО.
+  Анализ данных для прогнозирования
+  вероятности дорожно-транспортных
+  происшествий с участием пешеходов~//
+  Инженерный вестник Дона.
+\newblock 2020.
+\newblock {№}~6 (66).
+
+\bibitem{konyuhov2015analysis}
+\selectlanguageifdefined{russian}
+Анализ социологических аспектов
+  дорожно-транспортных происшествий на
+  дорогах России методами математической
+  статистики~/ ВГ~Конюхов, АВ~Олейник,
+  ГП~Конюхова {[и~др.]}~// Редакционная
+  коллегия: МЮ Ростовцева, кандидат
+  педагогических наук, профессор; Новикова
+  ЛА, заведующая кафедрой теории и методики
+  гимнастики.
+\newblock 2015.
+\newblock {с.}~170.
+
+\bibitem{elvik2007state}
+\selectlanguageifdefined{russian}
+Elvik~Rune. State-of-the-art approaches to road accident black spot management
+  and safety analysis of road networks.
+\newblock Transport{\o}konomisk institutt Oslo, 2007.
+
 \end{thebibliography}
