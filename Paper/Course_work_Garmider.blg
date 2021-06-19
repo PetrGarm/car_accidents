@@ -5,45 +5,49 @@ The style file: utf8gost705u.bst
 Database file #1: biblio.bib
 Warning--entry type for "rbkNews" isn't style-file defined
 --line 61 of file biblio.bib
-You've used 7 entries,
+Warning--entry type for "eleneGithub" isn't style-file defined
+--line 173 of file biblio.bib
+Warning--entry type for "tass_rating" isn't style-file defined
+--line 209 of file biblio.bib
+You've used 10 entries,
             2958 wiz_defined-function locations,
-            711 strings with 7939 characters,
-and the built_in function-call counts, 1990 in all, are:
-= -- 284
-> -- 62
-< -- 8
-+ -- 21
-- -- 14
-* -- 80
-:= -- 223
-add.period$ -- 26
-call.type$ -- 7
+            727 strings with 8456 characters,
+and the built_in function-call counts, 2759 in all, are:
+= -- 401
+> -- 79
+< -- 10
++ -- 28
+- -- 18
+* -- 112
+:= -- 305
+add.period$ -- 37
+call.type$ -- 10
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 90
-empty$ -- 184
-format.name$ -- 14
-if$ -- 535
+cite$ -- 10
+duplicate$ -- 124
+empty$ -- 253
+format.name$ -- 18
+if$ -- 742
 int.to.chr$ -- 0
-int.to.str$ -- 7
+int.to.str$ -- 10
 missing$ -- 0
-newline$ -- 50
-num.names$ -- 19
-pop$ -- 67
+newline$ -- 65
+num.names$ -- 24
+pop$ -- 89
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 57
+skip$ -- 80
 stack$ -- 0
-substring$ -- 38
-swap$ -- 58
-text.length$ -- 2
+substring$ -- 70
+swap$ -- 84
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 11
-width$ -- 8
-write$ -- 117
-(There was 1 warning)
+while$ -- 17
+width$ -- 12
+write$ -- 157
+(There were 3 warnings)

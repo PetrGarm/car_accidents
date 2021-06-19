@@ -3,3 +3,6 @@
 \contentsline {subsection}{\numberline {1.1}Актуальность в РФ}{3}{}%
 \contentsline {subsection}{\numberline {1.2}Обзор литературы}{4}{}%
 \contentsline {subsection}{\numberline {1.3}Методология и цели}{6}{}%
+\contentsline {section}{\numberline {2}Данные}{7}{}%
+\contentsline {subsection}{\numberline {2.1}Обзор}{7}{}%
+\contentsline {subsection}{\numberline {2.2}Графический анализ данных}{7}{}%

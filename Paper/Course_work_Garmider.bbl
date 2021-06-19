@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -72,5 +72,25 @@
 Elvik~Rune. State-of-the-art approaches to road accident black spot management
   and safety analysis of road networks.
 \newblock Transport{\o}konomisk institutt Oslo, 2007.
+
+\bibitem{haitovsky1980generalized}
+\selectlanguageifdefined{russian}
+Haitovsky~Yoel, Wax~Yohanan. Generalized ridge regression, least squares with
+  stochastic prior information, and Bayesian estimators~// Applied Mathematics
+  and Computation.
+\newblock 1980.
+\newblock Т.~7, {№}~2.
+\newblock {С.}~125--154.
+
+\bibitem{eleneGithub}
+\selectlanguageifdefined{russian}
+Никитина~Елена. Парсер статистики ДТП с
+  официального сайта ГИБДД stat.gibdd.ru. URL:
+  https://github.com/Shorstko/GibddStat.
+
+\bibitem{tass_rating}
+\selectlanguageifdefined{russian}
+ТАСС. Статистика ДТП в России и мире. Досье.
+  URL:  https://tass.ru/info/3233185.
 
 \end{thebibliography}
