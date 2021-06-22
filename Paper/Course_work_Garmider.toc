@@ -6,4 +6,4 @@
 \contentsline {section}{\numberline {2}Данные}{7}{}%
 \contentsline {subsection}{\numberline {2.1}Обзор}{7}{}%
 \contentsline {subsection}{\numberline {2.2}Графический анализ данных}{7}{}%
-\contentsline {section}{\numberline {3}Модель}{16}{}%
+\contentsline {section}{\numberline {3}Результаты модели и выводы}{16}{}%
